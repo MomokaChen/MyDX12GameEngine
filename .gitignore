@@ -1,13 +1,3 @@
 .vs/
-*.vcxproj.user
-*.sln
-*.obj
-*.exe
-*.pdb
-*.ilk
-
-x64/
-Debug/
-Release/
-
-Thumbs.db
+bin/
+bin-int/
