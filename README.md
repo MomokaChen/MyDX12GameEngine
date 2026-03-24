@@ -1,4 +1,4 @@
-# Halze | My DX12 Game Engine
+My DX12 Game Engine
 基于 DirectX12 API 的自研轻量级游戏引擎
 
 ## 项目介绍
